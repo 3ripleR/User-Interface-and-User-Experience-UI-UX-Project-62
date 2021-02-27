@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+}
+.h{
+    color: aquamarine;
+    font-family: cursive;
+}
+#logo{
+    width: 100%;
+}
+.img{
+    height: 150px;
+    width: 200px
+}
+#h3{
+    font-size: 40px;
+}
+.h1{
+    color: aquamarine;
+    font-family: cursive;
+}
+.container{
+    text-align: center;
+}
+
+#myCarousel{
+    background-color: fuchsia;
+}
+
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+#ten{
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
